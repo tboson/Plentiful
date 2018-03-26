@@ -14,6 +14,7 @@
 		AAD02B91206864A500617A71 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAD02B8F206864A500617A71 /* LaunchScreen.storyboard */; };
 		AAD02B9C206864A500617A71 /* PlentifullTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAD02B9B206864A500617A71 /* PlentifullTests.swift */; };
 		AAD02BA7206864A500617A71 /* PlentifullUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAD02BA6206864A500617A71 /* PlentifullUITests.swift */; };
+		B19B46942068DE43000ACA7A /* FoodAvailableTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B19B46932068DE43000ACA7A /* FoodAvailableTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		AAD02BA2206864A500617A71 /* PlentifullUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PlentifullUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAD02BA6206864A500617A71 /* PlentifullUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlentifullUITests.swift; sourceTree = "<group>"; };
 		AAD02BA8206864A500617A71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B19B46932068DE43000ACA7A /* FoodAvailableTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodAvailableTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				AAD02B86206864A500617A71 /* AppDelegate.swift */,
 				AAD02B88206864A500617A71 /* ViewController.swift */,
 				AAD02B8A206864A500617A71 /* Main.storyboard */,
+				B19B46932068DE43000ACA7A /* FoodAvailableTableViewCell.swift */,
 				AAD02B8D206864A500617A71 /* Assets.xcassets */,
 				AAD02B8F206864A500617A71 /* LaunchScreen.storyboard */,
 				AAD02B92206864A500617A71 /* Info.plist */,
@@ -261,6 +264,7 @@
 			files = (
 				AAD02B89206864A500617A71 /* ViewController.swift in Sources */,
 				AAD02B87206864A500617A71 /* AppDelegate.swift in Sources */,
+				B19B46942068DE43000ACA7A /* FoodAvailableTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
